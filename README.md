@@ -22,10 +22,10 @@ Where :
 
 $$
 d : \text{Cosine similarity}
-$$ \\
+$$ 
 $$
 x_{i},x_{j} : \text{Tow images.}
-$$ \\
+$$ 
 $$
 y_{i},y_{j} : \text{Corresponding embeddings.}
 $$
