@@ -18,11 +18,13 @@ $$
 L(x,y) = \frac{1}{M^2} \sum_{i=0}^M \sum_{j=0}^M [d(x_{i},x_{j}) - d(y_{i},y_{j})]^2
 $$
 
-$
+Where :
+
+```math
 d : \text{Cosine similarity} \\
 x_{i},x_{j} : \text{Tow images.} \\
 y_{i},y_{j} : \text{Corresponding embeddings.}
-$
+```
 
 ## Data
 
